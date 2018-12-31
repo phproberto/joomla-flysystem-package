@@ -1,4 +1,6 @@
-# Installable Joomla! package containing joomla-entity
+# Installable joomla-flysystem Joomla! package
+
+This package is just a wrapper around [joomla-flysystem](https://github.com/phproberto/joomla-flysystem). Check that repository for documentation, etc.
 
 ## Copyright & License <a id="license"></a>
 
